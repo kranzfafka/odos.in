@@ -1,0 +1,928 @@
+﻿State_UT,District,Block_Mandal,Location,F (mg/L)
+Andhra Pradesh,Adilabad,Dandepath,Narsapur,1.78
+Andhra Pradesh,Adilabad,Jainath,Jainath,3.33
+Andhra Pradesh,Adilabad,Jannaram,Jannaram,3.03
+Andhra Pradesh,Anantapur,Gorantla,Govinavaripalli,3.88
+Andhra Pradesh,Anantapur,Kadiri,Adivi Bramhanapalli,2.55
+Andhra Pradesh,Anantapur,Kadiri,Alampur,3.09
+Andhra Pradesh,Anantapur,Kalyandurg,Kalyandurg-Alt,3.4
+Andhra Pradesh,Anantapur,Madakasira,Madakasira,1.9
+Andhra Pradesh,Anantapur,Mudigubba,Malakavemula-Rs,1.65
+Andhra Pradesh,Anantapur,N.P.Kunta,D.Cheruvu,1.56
+Andhra Pradesh,Anantapur,Nallamada,Reddipalli,2.38
+Andhra Pradesh,Anantapur,Narpala,Narpala,1.95
+Andhra Pradesh,Anantapur,Parigi,Parigi,2.04
+Andhra Pradesh,Anantapur,Singanamala,Budipally,3.14
+Andhra Pradesh,Chittoor,Varadayyapalem,Gudisevaripalli,1.66
+Andhra Pradesh,Guntur,Chebrolu,Vadlamudi,1.62
+Andhra Pradesh,Guntur,Chilakaluripeta,Chilakaluripeta,1.55
+Andhra Pradesh,Guntur,Macherla,Chintalatanda,1.63
+Andhra Pradesh,Guntur,Piduguralla,Morjampadu,3.9
+Andhra Pradesh,Hyderabad,Golconda,Sheikpet,1.7
+Andhra Pradesh,Karimnagar,Gollapalli,Gollapalli,1.56
+Andhra Pradesh,Karimnagar,Husnabad,Husnabad,1.51
+Andhra Pradesh,Karimnagar,Koyyuru,Koyyuru,2
+Andhra Pradesh,Khammam,Nelakondapalli,Sanjeevareddipalem,1.94
+Andhra Pradesh,Krishna,A. Konduru,Gopalpuram,1.54
+Andhra Pradesh,Krishna,A. Konduru,Kumarakumtla,1.64
+Andhra Pradesh,Krishna,Kanchikacherla,Kanchikacherla,1.72
+Andhra Pradesh,Krishna,Vissannapeta,Vissannapeta,1.67
+Andhra Pradesh,Kurnool,Pyapalli,Yenugumarri,1.93
+Andhra Pradesh,Kurnool,Veldurti,Veldurti,1.54
+Andhra Pradesh,Mahbubnagar,Bomaraspet,Metlakunta,2
+Andhra Pradesh,Mahbubnagar,Koilkonda,R.G.Tanda,1.5
+Andhra Pradesh,Mahbubnagar,Manopad,Bonkur,1.5
+Andhra Pradesh,Mahbubnagar,Pebbair,Kanchiraopalli,1.9
+Andhra Pradesh,Medak,Cheguntla,Polampak,1.55
+Andhra Pradesh,Medak,Narsingi,Narsingi,1.89
+Andhra Pradesh,Nalgonda,Miryalaguda,Thugapadu,3.82
+Andhra Pradesh,Nalgonda,Nidamanuru,Nidamanuru,1.59
+Andhra Pradesh,Nellore,Balayapalli,Melchuru,2.64
+Andhra Pradesh,Prakasam,Chimakurthi,Chimakurthi,1.57
+Andhra Pradesh,Prakasam,Chinaganjam,Kadavakuduru,3.32
+Andhra Pradesh,Prakasam,Darsi,Chandaluru,1.65
+Andhra Pradesh,Prakasam,Hanumanthunipadu,Vemulapadu,2.1
+Andhra Pradesh,Prakasam,Kanigiri,Ballipalli,1.9
+Andhra Pradesh,Prakasam,Kanigiri,Kanigiri,5.81
+Andhra Pradesh,Prakasam,Kurichedu,Vengiahpalem,2.19
+Andhra Pradesh,Prakasam,Oletivaripalem,Malakonda,1.58
+Andhra Pradesh,Prakasam,Podili,Podili,8.24
+Andhra Pradesh,Prakasam,Podili,Tallamalla,3.8
+Andhra Pradesh,Prakasam,Ponnaluru,Nagireddipalem,2.18
+Andhra Pradesh,Prakasam,Tripuranthakam,G.Ummidivaram,2.08
+Andhra Pradesh,Prakasam,Vellampalli,Vellampalli,2.19
+Andhra Pradesh,Rangareddy,Basheerabad,Bashirabad,1.85
+Andhra Pradesh,Rangareddy,Hayathnagar,Batasingaram,2.75
+Andhra Pradesh,Visakhapatnam,Golugonda,Mallampet,1.6
+Andhra Pradesh,Vizianagaram,Lakkavarapukota,Lingavarpukota,1.57
+Andhra Pradesh,Warangal,Atmakur,Urugonda,2
+Andhra Pradesh,Warangal,Mulugu,Mallampalli,1.7
+Andhra Pradesh,Warangal,Narasampet,Narsampet,3.4
+Andhra Pradesh,West Godavari,Lingapalem,Dharmajigudem,2.07
+Andhra Pradesh,West Godavari,Lingapalem,Lingapalem,2.15
+Assam,Goalpara,Dudhnoi,Dorrangiri,5.65
+Assam,Kamrup,Greater Guwahati,Hatigaon,6.75
+Assam,Kamrup,Greater Guwahati,Narangi H.School,3.25
+Assam,Kamrup,Greater Guwahati,Rukmini Gaon,7.8
+Assam,Kamrup,Greater Guwahati,"Sewalipath,Hatigaon",2.15
+Assam,Kamrup,Greater Guwahati,"Sri P.H.B.Colony,Birkuchi",1.54
+Assam,Karbi Anglong,Howraghat,Akashi Ganga,4.04
+Assam,Karbi Anglong,Howraghat,Bokulia,1.52
+Assam,Karbi Anglong,Howraghat,Centre Bazar,1.74
+Assam,Karbi Anglong,Howraghat,Dengaon,3.5
+Assam,Karbi Anglong,Howraghat,Disobai,1.6
+Assam,Karbi Anglong,Howraghat,Dokmuka,2.5
+Assam,Karbi Anglong,Howraghat,Eradiaghalpani,2.62
+Assam,Karbi Anglong,Howraghat,Jamuna Jaipang,2.04
+Assam,Karbi Anglong,Howraghat,Parakhowa,1.88
+Assam,Karbi Anglong,Howraghat,Pub Dikharu,2.5
+Assam,Karbi Anglong,Howraghat,Ratiagaon,4.13
+Assam,Karbi Anglong,Howraghat,Tekegaon,4
+Assam,Karbi Anglong,Langsomepi,Amlakhi,1.62
+Assam,Karbi Anglong,Langsomepi,Kheroni,3.6
+Assam,Karbi Anglong,Langsomepi,Longnit,15.4
+Assam,Karbi Anglong,Langsomepi,Ramsapathar,20.6
+Assam,Karbi Anglong,Lumbajong,Baghpani,9
+Assam,Karbi Anglong,Lumbajong,Jaisuguri,2
+Assam,Karbi Anglong,Lumbajong,Manjha,1.88
+Assam,Karbi Anglong,Lumbajong,Rongkanthir,2.6
+Assam,Karbi Anglong,Samalangso,Garam Pani,6
+Assam,Karbi Anglong,Samalangso,Phongbirik,3.04
+Assam,Karbi Anglong,Samalangso,Rangitta,1.7
+Assam,Karbi Anglong,Samalangso,Samtarogaon,2.2
+Assam,Karbi Anglong,Samalangso,Sarsobey,1.7
+Assam,Karbi Anglong,Samalangso,Sonapur,5.25
+Assam,Nagaon,Jugijar,Jamunimukh,3.5
+Assam,Nagaon,Jugijar,Jaynagar,4.25
+Bihar,Aurangabad,Deo,Deo,2.62
+Bihar,Aurangabad,Madanpur,Madanpur,2.2
+Bihar,Banka,Bausi,Baunsi,1.95
+Bihar,Buxar,Rajpur,Rajpur,1.82
+Bihar,Jamui,Jamui,Navinagar,2.85
+Bihar,Kaimur(Bhabua),Bhagwanpur,Bhagwanpur,2.46
+Bihar,Kaimur (Bhabua),Nauwan,Nauwan,1.83
+Bihar,Kaimur (Bhabua),Ramgarh,Bandipur,1.72
+Bihar,Munger,Haveli Kharagpur,Khaira,2.21
+Bihar,Munger,Haveli Kharagpur,Raghunathpur,2.27
+Bihar,Nawada,Roh,Roh,1.7
+Bihar,Rohtas,Dawath,Maliabagh,1.7
+Bihar,Rohtas,Kudra,Rajandih,1.79
+Bihar,Rohtas,Nasriganj,Nasriganj,1.94
+Bihar,Supaul,Basantpur,Balua,1.87
+Chhattisgarh,Bastar,Kondagaon,Chimpawad,1.8
+Chhattisgarh,Bastar,Kondagaon,Joba,2.1
+Chhattisgarh,Bilaspur,Marwahi,Dhanpur,2.3
+Chhattisgarh,Dantewada,Katekalyan,Kukanar,1.78
+Chhattisgarh,Janjgir-Champa,Malkharoda,Davarghata,2
+Chhattisgarh,Jashpur,Bagicha,Maini,2.1
+Chhattisgarh,Kanker,Charama,Lakhanpuri,2
+Chhattisgarh,Kanker,Kanker,Kanker,2.2
+Chhattisgarh,Korba,Khatghora,Chaitama,1.5
+Chhattisgarh,Koriya,Manindragarh,Manindragarh,2.7
+Chhattisgarh,Mahasamund,Pithora,Deori(Bhagat),1.5
+Chhattisgarh,Raipur,Deobhog,Gohrapadar,1.6
+Chhattisgarh,Raipur,Gariaband,Joba,2
+Chhattisgarh,Raipur,Mainpur,Burgal Tappa,2.2
+Chhattisgarh,Rajnandgaon,Khairagarh,Baigatola,1.5
+Chhattisgarh,Surguja,Ramanuj Nagar,Dhamni,1.8
+Delhi,East Delhi,East Delhi,Akshardham S Pz,1.95
+Delhi,New Delhi,New Delhi,India Gate,2.7
+Delhi,North West Delhi,North West Delhi,Katlupur,1.62
+Delhi,North West Delhi,North West Delhi,Kherakalan,4.42
+Delhi,North West Delhi,North West Delhi,Majara Dabas,1.58
+Delhi,North West Delhi,North West Delhi,Puthkalan,6.1
+Delhi,South Delhi,South Delhi,Mandi Pz,1.9
+Delhi,South West Delhi,South West Delhi,Chawla,5.12
+Delhi,South West Delhi,South West Delhi,Goela Khurd (Dairy),1.94
+Delhi,South West Delhi,South West Delhi,Kharkhari Nahar,2.83
+Delhi,West Delhi,West Delhi,Peeragarhi,1.57
+Delhi,West Delhi,West Delhi,Tagore Garden,1.95
+Delhi,West Delhi,West Delhi,Tikri Kalan,2.51
+Delhi,West Delhi,West Delhi,Tilangpur Kotla Dw,1.95
+Gujarat,Ahmedabad,Barwala,Barvala,3.11
+Gujarat,Ahmedabad,Dhandhuka,Devalia,3.68
+Gujarat,Ahmedabad,Dhandhuka,Dhandhuka1,5.47
+Gujarat,Ahmedabad,Dhandhuka,Tagadi1,1.7
+Gujarat,Ahmedabad,Mandal,Dalod,3.6
+Gujarat,Ahmedabad,Viramgam,Kumarkhan,4.1
+Gujarat,Amreli,Jafrabad,Lotpur,1.87
+Gujarat,Amreli,Lathi,Luvariya,2.23
+Gujarat,Amreli,Rajula,Victor,2.8
+Gujarat,Anand,Petlad,Dharmaj,2.3
+Gujarat,Banaskantha,Dantiwada,Jorapura,2.3
+Gujarat,Banaskantha,Dantiwada,Moti Mahudi,2.9
+Gujarat,Banaskantha,Dantiwada,Sodapur,1.6
+Gujarat,Banaskantha,Tharad,Vadgamda,2.4
+Gujarat,Bharuch,Anklesvar,Panoli,1.6
+Gujarat,Bharuch,Bharuch,Mahegam1,2.85
+Gujarat,Bhavnagar,Mahuva,Mahuva1,1.98
+Gujarat,Bhavnagar,Palitana,Khijadiya,1.6
+Gujarat,Bhavnagar,Vallabhipur,Lonjdhara,1.95
+Gujarat,Bhavnagar,Vallabhipur,Panvi1,1.7
+Gujarat,Dohad,Devgad Baria,Dabhava,2.3
+Gujarat,Dohad,Devgad Baria,Khandania,1.6
+Gujarat,Dohad,Dohad,Dahod2,2.7
+Gujarat,Dohad,Dohad,Varamkheda,1.7
+Gujarat,Dohad,Garbada,Garbara,4.6
+Gujarat,Dohad,Garbada,Panchwada,1.6
+Gujarat,Dohad,Jhalod,Limbdi2,4.6
+Gujarat,Junagadh,Kodinar,Dolasa,2.5
+Gujarat,Kachchh,Abdasa,Kotaya,1.75
+Gujarat,Kachchh,Abdasa,Kothara,2.5
+Gujarat,Kachchh,Abdasa,Naliya1,1.75
+Gujarat,Kachchh,Abdasa,Tera,2.5
+Gujarat,Kachchh,Abdasa,Vinjhan1,1.65
+Gujarat,Kachchh,Bhachau,Samkhiari,2
+Gujarat,Kachchh,Bhuj,Rudramata,1.75
+Gujarat,Kachchh,Gandhidham,Shinaya,5
+Gujarat,Kachchh,Rapar,Gagodar,7.5
+Gujarat,Kachchh,Rapar,Lilpur,5.25
+Gujarat,Kachchh,Rapar,Rapar2,4.25
+Gujarat,Mahesana,Becharaji,Dharpura,2.5
+Gujarat,Mahesana,Kadi,Budasan,2.8
+Gujarat,Mahesana,Kheralu,Kheralu1,2
+Gujarat,Narmada,Tilakwada,Namaria,1.5
+Gujarat,Panchmahals,Ghoghamba,Ranipura,1.9
+Gujarat,Panchmahals,Khanpur,Bavaliya,1.7
+Gujarat,Panchmahals,Lunawada,Malekpur1,2
+Gujarat,Patan,Patan,Patan2,3.6
+Gujarat,Rajkot,Morvi,Modpar1,6.8
+Gujarat,Rajkot,Morvi,Morvi,3.1
+Gujarat,Rajkot,Upleta,Ganod,2.7
+Gujarat,Sabarkantha,Himatnagar,Varvada,3.6
+Gujarat,Sabarkantha,Idar,Bhadreshwar1,3.5
+Gujarat,Sabarkantha,Idar,Idar,3.5
+Gujarat,Sabarkantha,Talod,Harsol1,1.6
+Gujarat,Sabarkantha,Talod,Sabdajinamuvada,3.1
+Gujarat,Surat,Bardoli,Sarbhon,2.1
+Gujarat,Surendranagar,Dasada,Kherwa,2
+Gujarat,Surendranagar,Dhrangadhra,Ratanpur1,2.8
+Gujarat,Surendranagar,Halvad,Miani,3.3
+Gujarat,Surendranagar,Halvad,Sukhpar1,2.7
+Gujarat,Surendranagar,Muli,Muli,4.2
+Gujarat,Surendranagar,Sayla,Dhandhalpur,3
+Gujarat,Vadodara,Jetpur Pavi,Pavi,1.6
+Gujarat,Vadodara,Kavant,Devat (Thadgam),1.7
+Gujarat,Vadodara,Kavant,Moti Chikhali,2
+Gujarat,Vadodara,Nasvadi,Waghach,1.5
+Gujarat,Vadodara,Sankheda,Govindpura,1.8
+Gujarat,Vadodara,Savli,Vadala,1.8
+Gujarat,Vadodara,Savli,Vejpur2,2
+Haryana,Bhiwani,Bawanikhera,Bawanikhera,1.8
+Haryana,Bhiwani,Bawanikhera,Dhanana,1.67
+Haryana,Bhiwani,Bhiwani,Bamla,1.69
+Haryana,Bhiwani,Bhiwani,Bhiwani,1.87
+Haryana,Bhiwani,Dadri II,Adampur,1.8
+Haryana,Bhiwani,Dadri II,Atela,1.57
+Haryana,Bhiwani,Dadri II,Chirya,5.81
+Haryana,Bhiwani,Dadri II,Imlota,3.6
+Haryana,Bhiwani,Tosham,Bohal,3.82
+Haryana,Bhiwani,Kairu,Hetampur,8.2
+Haryana,Bhiwani,Kairu,Lohani,1.79
+Haryana,Bhiwani,Kairu,Lohgarh,6.3
+Haryana,Bhiwani,Kairu,Sungarpur,1.63
+Haryana,Bhiwani,Loharu,Loharu,2.65
+Haryana,Bhiwani,Siwani,Jhumpa,1.76
+Haryana,Bhiwani,Siwani,Siwani,2.02
+Haryana,Faridabad,Hathin,Hassanpur,2.14
+Haryana,Faridabad,Hathin,Kot,1.59
+Haryana,Faridabad,Hathin,Thekarka,1.54
+Haryana,Faridabad,Hodel,Achheja,2.91
+Haryana,Faridabad,Hodel,Bamnikhera,1.78
+Haryana,Faridabad,Hodel,Tumsara,1.75
+Haryana,Faridabad,Palwal,Baghaula,3.52
+Haryana,Faridabad,Palwal,Palwal,7.26
+Haryana,Faridabad,Palwal,Rasulpur,3.8
+Haryana,Gurgaon,Gurgaon,Bandhwari,1.72
+Haryana,Gurgaon,Nuh,Akbarpur,17
+Haryana,Gurgaon,Punhana,Gulaltha,1.5
+Haryana,Hissar,Adampur,Chaudhriwali,4.02
+Haryana,Hissar,Adampur,Sadalpur,1.65
+Haryana,Hissar,Agroha,Agroha,1.52
+Haryana,Hissar,Barwala,Juglan,3.78
+Haryana,Hissar,Bas,Bas,2.21
+Haryana,Hissar,Bhuna,Dhaulu,2.59
+Haryana,Hissar,Hansi,Dhamundicross,2.44
+Haryana,Hissar,Hansi I,Rajli Cross,4.67
+Haryana,Hissar,Hisar Ii,Balsamand,1.94
+Haryana,Hissar,Hisar Ii,Basra,3.4
+Haryana,Hissar,Narnoal,Lohariraghu,2.41
+Haryana,Jhajjar,Beri,Dubhaldhan,2.98
+Haryana,Jhajjar,Beri,Wazirpur,4.63
+Haryana,Jind,Jind,Chhabri,2.1
+Haryana,Jind,Julna,Jhamula,4.22
+Haryana,Jind,Julna,Lajwana Kalan,2.21
+Haryana,Jind,Narwana,Kalwan,2.05
+Haryana,Jind,Uchana,Uchana,2.12
+Haryana,Kaithal,Assanth,Paccakhera,1.8
+Haryana,Kaithal,Kalayat,Kachana,1.67
+Haryana,Kaithal,Kalayat,Mataur,1.6
+Haryana,Kaithal,Pundri,Jateri,1.72
+Haryana,Kurukshetra,Pehowa,Thana,4.38
+Haryana,Mahendragarh,Kanina,Lukhi,2.53
+Haryana,Mahendragarh,Narnaul,Faizabad,5.87
+Haryana,Panipat,Batoli,Tajpur,2.44
+Haryana,Panipat,Israna,Khalila Manjra,1.7
+Haryana,Panipat,Israna,Shahpur,2.09
+Haryana,Panipat,Israna,Untila,2.67
+Haryana,Panipat,Madhlaudha,Urlana Kalan,2.51
+Haryana,Panipat,Samalkha,Khalila Pehladpur,2.15
+Haryana,Rewari,Nahar,Bahu,3.88
+Haryana,Rewari,Nahar,Kosli,5.78
+Haryana,Rohtak,Kalanaur,Kalanaur,2.77
+Haryana,Rohtak,Lakhan Majara,Lakhan Majara,1.91
+Haryana,Rohtak,Meham,Madina,3.4
+Haryana,Rohtak,Meham,Nidhana,1.76
+Haryana,Rohtak,Rohtak,Bhalaut,8.84
+Haryana,Rohtak,Rohtak,Jasia,4.36
+Haryana,Rohtak,Rohtak,Kansala,3.5
+Haryana,Rohtak,Rohtak,Kharawar,2.45
+Haryana,Sirsa,Audha,Alikan,1.85
+Haryana,Sirsa,Bara Gudha,Rori,7.12
+Haryana,Sirsa,Dabwali,Rasalia Khera,3.72
+Haryana,Sirsa,Dabwali,Tejakhera,2.65
+Haryana,Sirsa,Nathusai Chopta,Madho Singhana,2.1
+Haryana,Sirsa,Nathusai Chopta,Sherpura,3.6
+Haryana,Sirsa,Odhan,Mithri,3.7
+Haryana,Sirsa,Rania,Chilkani Dhab,4.08
+Haryana,Sirsa,Rania,Sri Jiwan Nagar,2.49
+Haryana,Sirsa,Sirsa,Ding,2.52
+Haryana,Sonepat,Gohana,Barota,1.59
+Haryana,Sonepat,Gohana,Rukhi,1.63
+Haryana,Sonepat,Kathura,Garhwal,7.07
+Haryana,Sonepat,Kharkhauda,Kharkhauda,7.73
+Haryana,Sonepat,Kharkhauda,Sisnah,1.65
+Haryana,Sonepat,Mundalana,Bichpuri,3.5
+Haryana,Sonepat,Mundalana,Chirana,2.76
+Haryana,Sonepat,Mundalana,Jagsi,3.87
+Haryana,Sonepat,Mundalana,Mundlana,5.19
+Haryana,Sonepat,Mundalana,Purkhas,1.73
+Haryana,Sonepat,Rai,Kheora,1.51
+Haryana,Sonepat,Rai,Nahri,1.62
+Haryana,Sonepat,Sonepat,Farmana,8.6
+Jammu & Kashmir,Rajauri,Nowshera,Jhangar,2.06
+Jammu & Kashmir,Udhampur,Ramnagar,Dehari,2
+Jharkhand,Bokaro,Chas,Chas,2.5
+Jharkhand,Giridih,Khijri,Khijri,1.6
+Jharkhand,Giridih,Tisri,Tisri,1.8
+Jharkhand,Godda,Boarijor,Lalmatia,1.81
+Jharkhand,Godda,Godda,Godda,1.77
+Jharkhand,Gumla,Chainpur,Chainpur,2.18
+Jharkhand,Palamu,Bishrampur,Bisrampur,2.46
+Jharkhand,Ranchi,Ormanjhi,Chutupalu,2.6
+Jharkhand,Ranchi,Silli,Silli,2.2
+Karnataka,Bagalkot,Beelagi,Teggi,2.5
+Karnataka,Bagalkot,Bilgi,Bilgi,2.3
+Karnataka,Bagalkot,Hunugunda,Amingarh,4.4
+Karnataka,Bagalkot,Hunugunda,Binjawadige,4.2
+Karnataka,Bagalkot,Hunugunda,Ilkal,4.2
+Karnataka,Bagalkot,Hunugunda,Kodihal,2.6
+Karnataka,Bagalkot,Hunugunda,Nandwadige,1.7
+Karnataka,Bagalkot,Hunugunda,Tumb,1.5
+Karnataka,Bangalore,Doddaballapura,S.S. Ghatti,2.2
+Karnataka,Bangalore,Kanakapura,Hegnur,2.2
+Karnataka,Bangalore,Magadi,Guddamarna Hali Cross,1.5
+Karnataka,Bangalore,Ramnagar,Kalancha,2
+Karnataka,Belary,Bellary,Alipuram-Ii,2
+Karnataka,Belary,Bellary,Kurugodu,2.2
+Karnataka,Belary,Bellary,Sindgeri,1.5
+Karnataka,Belary,Hadagalli,Varadapur,1.8
+Karnataka,Belary,Hospet,Hampi,2
+Karnataka,Belary,Hospet,Kamalapuram,2.5
+Karnataka,Belary,Hospet,Maryamanhalli,1.6
+Karnataka,Belgaum,Gokak,Gokak,2
+Karnataka,Belgaum,Saundatti,Halki,1.9
+Karnataka,Bidar,Bidar,Bidar,2.7
+Karnataka,Bijapur,Bagewadi,Huvinahippargi,2.8
+Karnataka,Bijapur,Bagewadi,Nidugundi,4.9
+Karnataka,Bijapur,Bagewadi,Ukkali,1.7
+Karnataka,Bijapur,Bijapur,Teligi,1.6
+Karnataka,Bijapur,Bijapur,Tikota,1.7
+Karnataka,Bijapur,Indi,Chadchan,2.3
+Karnataka,Bijapur,Indi,Nadkurd,2.5
+Karnataka,Bijapur,Indi,Newdhulikhed,2.2
+Karnataka,Bijapur,Indi,Nimbal,3.9
+Karnataka,Bijapur,Indi,Solotgi,1.6
+Karnataka,Bijapur,Indi,Tamba,2.9
+Karnataka,Bijapur,Muddebihal,Devar Hulagbal,1.6
+Karnataka,Bijapur,Muddebihal,Nebgeri,2
+Karnataka,Bijapur,Muddebihal,Tangadgi,3.2
+Karnataka,Bijapur,Sindgi,Shivangi,1.8
+Karnataka,Chamarajanagar,Gundlupet,Begur,1.8
+Karnataka,Chamarajanagar,Kollegal,Maddur,1.6
+Karnataka,Chikmagalur,Tarikere,Ajjampura'a',1.6
+Karnataka,Chitradurga,Chitradurga,Chitradurga,2.2
+Karnataka,Chitradurga,Hosadurga,Hosa Durga,4.3
+Karnataka,Chitradurga,Hosadurga,Narasepura,1.5
+Karnataka,Davangere,Davangere,Dodda Batti,1.6
+Karnataka,Davangere,Harapanahalli,Arsikere,1.6
+Karnataka,Davangere,Harapanahalli,Chikahalli,1.8
+Karnataka,Davangere,Jagalur,Jagalur,1.5
+Karnataka,Dharwad,Dharwar,Aravatgi,3.3
+Karnataka,Dharwad,Dharwar,Mugad,1.9
+Karnataka,Dharwad,Kalhatgi,Devikoppa,2.5
+Karnataka,Dharwad,Kundgol,Gudgeri,2
+Karnataka,Dharwad,Navalgund,Annigeri,1.6
+Karnataka,Gadag,Gadag,Chikkoppa,2.8
+Karnataka,Gadag,Gadag,Hulkoti,2.3
+Karnataka,Gadag,Gadag,Nagasamisdra,2.6
+Karnataka,Gadag,Mundargi,Mundargi,2.9
+Karnataka,Gadag,Shirahatti,Magadi,4
+Karnataka,Gadag,Shirahatti,Ramgeri,3.5
+Karnataka,Gulbarga,Gulbarga,Ferozabad,1.8
+Karnataka,Gulbarga,Jevargi,Mudbal,2.28
+Karnataka,Gulbarga,Jevargi,Revannur,1.62
+Karnataka,Gulbarga,Shahapur,Dorana Halli,1.8
+Karnataka,Gulbarga,Shahapur,Hattiguddar,4
+Karnataka,Gulbarga,Shahapur,Madarki,1.98
+Karnataka,Gulbarga,Shorapur,Kakkeri,1.79
+Karnataka,Gulbarga,Shorapur,Kodekal,2.76
+Karnataka,Gulbarga,Shorapur,Malla(K),1.55
+Karnataka,Gulbarga,Shorapur,Narayanpur,3.12
+Karnataka,Gulbarga,Shorapur,Shantpur,1.73
+Karnataka,Haveri,Hanagal,Hanmankoppa,1.6
+Karnataka,Kolar,Mulabagal,Tatikallu,1.5
+Karnataka,Koppal,Gangavathi,Hosabandiharla Pura,1.7
+Karnataka,Koppal,Gangavathi,Huli Hyder,2.6
+Karnataka,Koppal,Gangavathi,Kanakagiri,4.1
+Karnataka,Koppal,Gangavathi,Khatagpur Khalga,2
+Karnataka,Koppal,Gangavathi,Muslapur,2.1
+Karnataka,Koppal,Koppal,Hosahalli,2.6
+Karnataka,Koppal,Koppal,Koppal,1.6
+Karnataka,Koppal,Kushtagi,Kyadiguppa,2.7
+Karnataka,Koppal,Kushtagi,Towaragar,1.8
+Karnataka,Koppal,Yelburga,Bandi,1.6
+Karnataka,Koppal,Yelburga,Halgere,2.5
+Karnataka,Mandya,Maddur,Madur,2.3
+Karnataka,Mandya,Nagamangala,Karadha Halli,1.6
+Karnataka,Mysore,Krishnarajanagar,Saligrama,1.5
+Karnataka,Raichur,Deodurga,Kakargal,1.6
+Karnataka,Raichur,Linsugur,Chatra,4.1
+Karnataka,Raichur,Sindhanur,Gudadur,1.6
+Karnataka,Raichur,Sindhanur,Jawalagere,4.7
+Karnataka,Raichur,Sindhanur,Kalmangi,2.3
+Karnataka,Raichur,Sindhanur,Turvihal,4.1
+Karnataka,Tumkur,Madhugiri,Badavanahalli(A),1.6
+Karnataka,Tumkur,Tiptur,Halkurki,1.5
+Kerala,Palakkad,Chittor,Kollengode,2.5
+Kerala,Palakkad,Chittor,Chinnamoolathara,3.12
+Kerala,Palakkad,Chittor,Kodunthirapalli,2.8
+Kerala,Palakkad,Malampuzha,Kopanur,5.7
+Madhya Pradesh,Bhind,Gohad,Bhirkhari,2.18
+Madhya Pradesh,Bhind,Lahar,Alampur,3.04
+Madhya Pradesh,Bhind,Mehgaon,Chirole,3.64
+Madhya Pradesh,Chhatarpur,Laundi,Laundi,2.65
+Madhya Pradesh,Chhindwara,Jamai,Damua,1.95
+Madhya Pradesh,Chhindwara,Pandhurana,Rajna,3.96
+Madhya Pradesh,Datia,Datia,Imaliya,2
+Madhya Pradesh,Datia,Datia,Ruduapura,2.3
+Madhya Pradesh,Dewas,Khategaon,Pipilianankar,1.54
+Madhya Pradesh,Dhar,Bagh,Tanda,3.5
+Madhya Pradesh,Dhar,Sardarpur,Amjhira,3
+Madhya Pradesh,Dhar,Sardarpur,Dasai,3.5
+Madhya Pradesh,Dhar,Sardarpur,Julana,3
+Madhya Pradesh,Guna,Chachaura,Barod,2.05
+Madhya Pradesh,Guna,Chachaura,Penchi,3.2
+Madhya Pradesh,Gwalior,Dabra,Tekanpur,5.15
+Madhya Pradesh,Gwalior,Ghatigaon,Mohna,2.03
+Madhya Pradesh,Harda,Harda,Handia,1.63
+Madhya Pradesh,Jabalpur,Jabalpur,Barela,1.61
+Madhya Pradesh,Jhabua,Alirajpur,Nanpur,1.92
+Madhya Pradesh,Jhabua,Jhabua,Pitol,4
+Madhya Pradesh,Khargone,Badwah,Amba,9.75
+Madhya Pradesh,Mandsaur,Sitamau,Suwasara,1.61
+Madhya Pradesh,Rajgarh,Jirapur,Machalpur,2.28
+Madhya Pradesh,Rajgarh,Jirapur,Zirapur,2.16
+Madhya Pradesh,Rajgarh,Sarangpur,Pachor,2.12
+Madhya Pradesh,Rajgarh,Sarangpur,Udhankheri,2.19
+Madhya Pradesh,Satna,Ramnagar,Gorsari,10.7
+Madhya Pradesh,Satna,Sohawal,Chorhata,10.27
+Madhya Pradesh,Seoni,Keolari,Banjal,3.05
+Madhya Pradesh,Seoni,Lakhnadon,Gharghatia,12
+Madhya Pradesh,Shajapur,Agar,Amla,2.45
+Madhya Pradesh,Shajapur,Badod,Barod,2.55
+Madhya Pradesh,Shajapur,Nalkheda,Nalkhera,2.79
+Madhya Pradesh,Shajapur,Shujalpur,Akodia,7.81
+Madhya Pradesh,Shajapur,Susner,Susner,3.3
+Madhya Pradesh,Sheopur,Karahal,Kalmi,2.1
+Madhya Pradesh,Sheopur,Karahal,Karahal,1.5
+Madhya Pradesh,Sidhi,Rampur Naikin,Rampur,2
+Maharashtra,Amravati,Anjangaon (Surji),Nimbhori,1.51
+Maharashtra,Amravati,Chandur Bazar,Wishroli,1.86
+Maharashtra,Chandrapur,Chandrapur,Ghugus,2.17
+Maharashtra,Chandrapur,Chandrapur,Chandrapur,1.66
+Maharashtra,Chandrapur,Chimur,Kawadsi,2.53
+Maharashtra,Chandrapur,Gondpipri,Bhimni,4.01
+Maharashtra,Chandrapur,Mul,Sawali,2.17
+Maharashtra,Chandrapur,Sidhewahi,Alesur,1.81
+Maharashtra,Dhule,Dhule,Dhule,1.8
+Maharashtra,Gadchiroli,Sironcha,Allapalli,1.5
+Maharashtra,Gondia,Amgaon,Kalimati,2.45
+Maharashtra,Gondia,Tirora,Sarra,1.8
+Maharashtra,Gondia,Tirora,Nawegaon,2.1
+Maharashtra,Jalna,Ambad,Shahagad,2.93
+Maharashtra,Nagpur,Kamptee,Koradi,1.56
+Maharashtra,Nagpur,Katol,Chargaon (Punarwasi),1.71
+Maharashtra,Nagpur,Ramtek,Sirpur Toli,1.95
+Maharashtra,Nanded,Kinwat,Unkeshwar,2.95
+Orissa,Angul,Angul,Barhabahal,1.58
+Orissa,Angul,Banarpal,Balanda,1.58
+Orissa,Angul,Kaniha,Samal,3.98
+Orissa,Balasore,Balasoresadar,Govindpur,4.2
+Orissa,Bargarh,Bheden,Lupursinga,1.75
+Orissa,Bhadrak,Chandbali,Motto,2.1
+Orissa,Bandh,Harbanga,Nuapada,4.6
+Orissa,Bandh,Harbanga,Arakhpadar,4.9
+Orissa,Bandh,Harbhanga,Charichak,4.64
+Orissa,Bandh,Kantamal,Damamunda,4.92
+Orissa,Cuttack,Narsinghpur,Narsingpur,2.7
+Orissa,Deogarh,Riamal,Barkot-Iii,1.52
+Orissa,Dhenkanal,Kamakhyanagar,Kamakyanagar,2.25
+Orissa,Jajpur,Dharamsala,Rampei,5.2
+Orissa,Jajpur,Sukinda,Ambasar,5
+Orissa,Keonjhar,Ghasipura,Ramchandrapur,2.34
+Orissa,Sonapur,Dungripalli,Khari,3.8
+Punjab,Amritsar,Gandiwind,Mohawa,1.58
+Punjab,Amritsar,Patti,Bhagupur 07,1.99
+Punjab,Bhatinda,Maur,Maisar Khana,2.38
+Punjab,Bhatinda,Rampura,Jhanduke,4.7
+Punjab,Bhatinda,Sangot,Ghudda,1.93
+Punjab,Faridkot,Faridkot,Chand Baja,2.64
+Punjab,Faridkot,Kotkapura,Dhilwan Kalan,3.67
+Punjab,Faridkot,Kotkapura,Karirwali,3.42
+Punjab,Faridkot,Kotkapura,Matta,2.73
+Punjab,Fatehgarh Sahib,Fatehgarh Sahib,Pir Jain,1.54
+Punjab,Firojpur,Abohar,Chak Kala Tibba,3.27
+Punjab,Firozpur,Abohar,Bazirdpura,3.46
+Punjab,Firozpur,Guruharsahai,Sohangarh Ratte,2.38
+Punjab,Firozpur,Khuyan Sarwar,Nihalkhera,1.63
+Punjab,Firozur,Abohar,Sitoganno,2.7
+Punjab,Gurdaspur,Pathankot,Gharotakalan,3.55
+Punjab,Mansa,Bhikhi,Bhikhi 1 (S),8.33
+Punjab,Mansa,Bhiki,Kotra,2.81
+Punjab,Mansa,Bhiki,Ralla,2.33
+Punjab,Mansa,Budhlala,Beroke Kalan,1.58
+Punjab,Mansa,Budhlala,Kot Dhamru,3.82
+Punjab,Mansa,Junir,Burj Bhalaike,5.21
+Punjab,Mansa,Junir,Junniar,4.43
+Punjab,Mansa,Mansa,Rar,1.71
+Punjab,Moga,Moga Ii,Dara Pur,1.96
+Punjab,Muktsar,Malout,Kabar Wala,5.36
+Punjab,Patiala,Rajpura,Haluka,2.8
+Punjab,Patiala,Samana,Sirsini,2.05
+Punjab,Sangrur,Lehragaga,Chotian,2.49
+Punjab,Sangrur,Lehragaga,Daska,1.76
+Punjab,Sangrur,Lehragaga,Ghorenab (S),11.3
+Punjab,Sangrur,Lehragaga,Khandebad,2.33
+Punjab,Sangrur,Malerkotla-1,Malerkotla,1.95
+Punjab,Sangrur,Sunam,Birkalan,1.71
+Rajasthan,Ajmer,Arain,Arian,5.54
+Rajasthan,Ajmer,Bhinai,Bandanwara,4.43
+Rajasthan,Ajmer,Bhinai,Ludiyana,3.85
+Rajasthan,Ajmer,Jawaja,Baglias,2.84
+Rajasthan,Ajmer,Jawaja,Jawaja,2.04
+Rajasthan,Ajmer,Jawaja,Taragarh,2.85
+Rajasthan,Ajmer,Kekri,Bogla,7.56
+Rajasthan,Ajmer,Kekri,Goelo,10.6
+Rajasthan,Ajmer,Kekri,Kekri,2.28
+Rajasthan,Ajmer,Masuda,Pakhriawas,1.62
+Rajasthan,Ajmer,Pisangan,Manpura,2
+Rajasthan,Ajmer,Pisangan,Tabiji,1.68
+Rajasthan,Ajmer,Silora,Kishangarh,1.95
+Rajasthan,Ajmer,Srinagar,Nasirabad,4.8
+Rajasthan,Alwar,Ramgarh,Ramgarh,3.66
+Rajasthan,Alwar,Thanagazi,Torikabas,1.58
+Rajasthan,Banswara,Anandpuri,Kotra,1.5
+Rajasthan,Banswara,Bagidora,Bagidora,1.75
+Rajasthan,Banswara,Bagidora,Chichi,2.28
+Rajasthan,Banswara,Ghatol,Khamera,3.04
+Rajasthan,Banswara,Garhi,Odwara,1.8
+Rajasthan,Banswara,Garhi,Wajwana,1.86
+Rajasthan,Banswara,Ghatol,Narwali,2
+Rajasthan,Banswara,Ghatol,Senwasa,1.6
+Rajasthan,Banswara,Kushalgarh,Lohariya,1.56
+Rajasthan,Banswara,Sajjangarh,Bhilkua,1.65
+Rajasthan,Banswara,Sajjangarh,Chota Dungra,1.94
+Rajasthan,Banswara,Sajjangarh,Khudan,2.1
+Rajasthan,Banswara,Talwara,Banswara,1.5
+Rajasthan,Banswara,Talwara,Sera Pada Sandoh,2.36
+Rajasthan,Banswara,Talwara,Shivpura,2.85
+Rajasthan,Banswara,Talwara,Tejpur,1.68
+Rajasthan,Barmer,Baitu,Kashmir,6
+Rajasthan,Barmer,Baitu,Panavada,1.73
+Rajasthan,Barmer,Baitu,Saupadamsingh,1.78
+Rajasthan,Barmer,Barmer,Balewa,1.59
+Rajasthan,Barmer,Barmer,Bhadka,2.15
+Rajasthan,Barmer,Barmer,Bisala,6.6
+Rajasthan,Barmer,Barmer,Kharin,4.1
+Rajasthan,Barmer,Barmer,Nand,1.51
+Rajasthan,Barmer,Barmer,Nimri (Radewa),2.4
+Rajasthan,Barmer,Barmer,Sanawara,1.58
+Rajasthan,Barmer,Barmer,Sasion-Ka-Kua,1.79
+Rajasthan,Barmer,Barmer,Selau,1.83
+Rajasthan,Barmer,Barmer,Sutharon Ki Dha,1.73
+Rajasthan,Barmer,Chohtan,Dhanau,2.05
+Rajasthan,Barmer,Chohtan,Dhok,3.05
+Rajasthan,Barmer,Chohtan,Sihaniya,2.37
+Rajasthan,Barmer,Chohtan,Siyaga Tala,1.73
+Rajasthan,Barmer,Dhorimanna,Adel,2.71
+Rajasthan,Barmer,Dhorimanna,Dhorimanna,2.44
+Rajasthan,Barmer,Dhorimanna,Kateria,2.25
+Rajasthan,Barmer,Dhorimanna,Piparli Gaon,1.5
+Rajasthan,Barmer,Dhorimanna,Ramji Ka Gol,5.79
+Rajasthan,Barmer,Pachpadra,Asotra,2.18
+Rajasthan,Barmer,Pachpadra,Doli,2.6
+Rajasthan,Barmer,Pachpadra,Sarawadi,4.94
+Rajasthan,Barmer,Sheo,Bhimda,1.69
+Rajasthan,Barmer,Sheo,Jawansinghkiber,4.4
+Rajasthan,Bharatpur,Bayana,Salabad,1.54
+Rajasthan,Bharatpur,Kaman,Jurahra,1.94
+Rajasthan,Bharatpur,Kaman,Kaman,2.98
+Rajasthan,Bharatpur,Nagar,Gulpura,3.7
+Rajasthan,Bharatpur,Nagar,Jhantli,4.31
+Rajasthan,Bharatpur,Rupwas,Rudhawal,2.1
+Rajasthan,Bhilwara,Asind,Barasni,2.04
+Rajasthan,Bhilwara,Banera,Raila Road,1.98
+Rajasthan,Bhilwara,Hurara,Gageda,3.83
+Rajasthan,Bhilwara,Hurara,Gulabpura,2.51
+Rajasthan,Bhilwara,Kotri,Kotari,1.85
+Rajasthan,Bhilwara,Maldal,Jiwanliyan,2.6
+Rajasthan,Bhilwara,Raipur,Pitakhera,2.36
+Rajasthan,Bhilwara,Sahara,Gangapur,1.55
+Rajasthan,Bhilwara,Sahara,Lakola,4.32
+Rajasthan,Bhilwara,Shahpura,Kanchan-Kala,2.95
+Rajasthan,Bhilwara,Shahpura,Taswaria Khurd,1.5
+Rajasthan,Bhilwara,Suwana,Suwana,4.15
+Rajasthan,Bikaner,Bikaner,Napasar,1.6
+Rajasthan,Bikaner,Bikaner,Raner,1.7
+Rajasthan,Bikaner,Bikaner,Sattasar,3
+Rajasthan,Bikaner,Dugargarh,Lodera,2.3
+Rajasthan,Bikaner,Kolayat,Amarpura,12
+Rajasthan,Bikaner,Kolayat,Ranjitpura,1.6
+Rajasthan,Bikaner,Lunkaransar,Arjansar,38
+Rajasthan,Bikaner,Lunkaransar,Chhatargarh,1.5
+Rajasthan,Bikaner,Lunkaransar,Mahajan,1.9
+Rajasthan,Bundi,Keshoraipatan,Maija,1.98
+Rajasthan,Chittaurgarh,Chittaurgarh,Mahooda,2.62
+Rajasthan,Chittaurgarh,Choti Sadri,Choti Sadri,1.5
+Rajasthan,Chittaurgarh,Pratapgarh,Rajpuria,2.7
+Rajasthan,Churu,Rajgarh,Dadrewa,1.5
+Rajasthan,Churu,Ratangarh,Malasar,1.8
+Rajasthan,Churu,Sardarsahar,Bhojrasar,2.3
+Rajasthan,Churu,Sardarsahar,Mittasar,1.8
+Rajasthan,Churu,Sujangarh,Bhimser Ki Peau,24
+Rajasthan,Churu,Sujangarh,Guleriya,5
+Rajasthan,Churu,Sujangarh,Salasar,1.62
+Rajasthan,Churu,Tara Nagar,Dhirawas,2.05
+Rajasthan,Dausa,Dausa,Bhandarej,1.57
+Rajasthan,Dausa,Dausa,Dausa,1.52
+Rajasthan,Dausa,Mahuwa,Mahuwa,4.21
+Rajasthan,Dausa,Mahuwa,Rashidpura,1.58
+Rajasthan,Dhaulpur,Dholpur,Sepau,2.5
+Rajasthan,Dungarpur,Aspur,Aspur,2.16
+Rajasthan,Dungarpur,Aspur,Kabja,3.2
+Rajasthan,Dungarpur,Aspur,Nayagaon,3.98
+Rajasthan,Dungarpur,Aspur,Ramgarh,2.17
+Rajasthan,Dungarpur,Aspur,Sabla,1.97
+Rajasthan,Dungarpur,Dungarpur,Hatai,3.65
+Rajasthan,Dungarpur,Dungarpur,Manpur,1.62
+Rajasthan,Dungarpur,Sagawara,Baroda,2.11
+Rajasthan,Ganganagar,Anuapgarh,Banda Colony,35.15
+Rajasthan,Ganganagar,Anuapgarh,Gomanwali,2.86
+Rajasthan,Ganganagar,Anuapgarh,Khal,2.67
+Rajasthan,Ganganagar,Anuapgarh,Raisinghnagar,2.4
+Rajasthan,Ganganagar,Anuapgarh,Srivijaynagar,2.17
+Rajasthan,Ganganagar,Karanpur,Karanpur,4.82
+Rajasthan,Ganganagar,Karanpur,Rupanagar,4.4
+Rajasthan,Ganganagar,Raisinghnagar,Dabla,1.88
+Rajasthan,Ganganagar,Raisinghnagar,Jagatsinghwala,2.3
+Rajasthan,Ganganagar,Raisinghnagar,Muklawa,1.84
+Rajasthan,Ganganagar,Sadulasahar,Morjhand Kheri,3.02
+Rajasthan,Ganganagar,Sadulsahar,Mahiyanwali,2.49
+Rajasthan,Ganganagar,Suratgarh,Bhopalpura,5.65
+Rajasthan,Ganganagar,Suratgarh,Birdhwal,8.25
+Rajasthan,Ganganagar,Suratgarh,Birmana,8.18
+Rajasthan,Ganganagar,Suratgarh,Harisinghpura,7.26
+Rajasthan,Ganganagar,Suratgarh,Lalgariya,2.72
+Rajasthan,Ganganagar,Suratgarh,Padampura,3.65
+Rajasthan,Ganganagar,Suratgarh,Piperan,9.88
+Rajasthan,Ganganagar,Suratgarh,Sangita,5.84
+Rajasthan,Hanumangarh,Hanumangarh,Kohla,7
+Rajasthan,Hanumangarh,Hanumangarh,Panniwali,5.8
+Rajasthan,Hanumangarh,Hanumangarh,Salewali,1.94
+Rajasthan,Hanumangarh,Nohar,Lakhasar,5
+Rajasthan,Hanumangarh,Nohar,Ramsara,5
+Rajasthan,Jaipur,Amber,Jalsu,1.75
+Rajasthan,Jaipur,Amber,Pratapura Kalan,2.03
+Rajasthan,Jaipur,Bassi,Jatwara Rly Sta,3.56
+Rajasthan,Jaipur,Chaksu,Chaksu,1.73
+Rajasthan,Jaipur,Chaksu,Shivdaspura,2.41
+Rajasthan,Jaipur,Chaksu,Thalli,5.65
+Rajasthan,Jaipur,Dudu,Nasnota,13.8
+Rajasthan,Jaipur,Dudu,Pallukhurd,3.98
+Rajasthan,Jaipur,Jamwa Ramgarh,Andhi,2.54
+Rajasthan,Jaipur,Phagi,Phagi,2.28
+Rajasthan,Jaipur,Sambhar,Phulera(Pipli K,11.6
+Rajasthan,Jaipur,Sanganer,Goner,4.7
+Rajasthan,Jaipur,Sanganer,Sukhpuria,1.91
+Rajasthan,Jaipur,Sanganer,Tilawala,5.34
+Rajasthan,Jaipur,Sanganer,Watika,3.34
+Rajasthan,Jaisalmer,Jaisalmer,Chandsar,2.3
+Rajasthan,Jaisalmer,Jaisalmer,Parwar,2
+Rajasthan,Jaisalmer,Sam,Asutar,1.98
+Rajasthan,Jaisalmer,Sam,Haboor,1.5
+Rajasthan,Jaisalmer,Sam,Phulia,4
+Rajasthan,Jaisalmer,Sankra,Kalewa,2.3
+Rajasthan,Jaisalmer,Sankra,Luna Kalan,1.85
+Rajasthan,Jaisalmer,Sankra,Phalsund,3.2
+Rajasthan,Jalore,Ahore,Nimla,1.57
+Rajasthan,Jalore,Bhinmal,Bhinmal,6.91
+Rajasthan,Jalore,Bhinmal,Doongri,1.94
+Rajasthan,Jalore,Jalore,Jalore,4.51
+Rajasthan,Jalore,Raniwara,Kagmala(Kundanpura),1.98
+Rajasthan,Jalore,Sanchor,Bagora,3.53
+Rajasthan,Jalore,Sayla,Madavala,2.19
+Rajasthan,Jalore,Sayla,Posana,3.06
+Rajasthan,Jhunjhunun,Jhunjhunun,Jhunjhunun,3.74
+Rajasthan,Jhunjhunun,Jhunjhunun,Mandawa,1.92
+Rajasthan,Jhunjhunun,Udaipurwati,Dhabai Ki Dhani,3.25
+Rajasthan,Jodhpur,Bhopalgarh,Asop,2.5
+Rajasthan,Jodhpur,Bhopalgarh,Dharmi,2.36
+Rajasthan,Jodhpur,Bhopalgarh,Palri,2.82
+Rajasthan,Jodhpur,Bhopalgarh,Rarod,1.74
+Rajasthan,Jodhpur,Bilara,Bilara,1.98
+Rajasthan,Jodhpur,Luni,Kuri,1.6
+Rajasthan,Jodhpur,Luni,Mogra,36.2
+Rajasthan,Jodhpur,Luni,Raron Ki Dhani,5.48
+Rajasthan,Jodhpur,Mandore,Karani,4.35
+Rajasthan,Jodhpur,Osian,Baori,3
+Rajasthan,Jodhpur,Osian,Chirai,1.67
+Rajasthan,Karauli,Hindon,Islampur,4.95
+Rajasthan,Karauli,Karauli,Bhauapura,1.62
+Rajasthan,Karauli,Nadauti,Guda Chanderji,5.52
+Rajasthan,Kota,Ladpura,Gudli,1.6
+Rajasthan,Nagaur,Degana,Degana Jn.,2.1
+Rajasthan,Nagaur,Didwana,Bathri,1.56
+Rajasthan,Nagaur,Didwana,Kerap,1.9
+Rajasthan,Nagaur,Jayal,Deh,3.45
+Rajasthan,Nagaur,Jayal,Jayal,2.43
+Rajasthan,Nagaur,Jayal,Katoti,1.53
+Rajasthan,Nagaur,Jayal,Rol,2.12
+Rajasthan,Nagaur,Ladnu,Bankalia,1.6
+Rajasthan,Nagaur,Makrana,Makrana,1.55
+Rajasthan,Nagaur,Makrana,Mangalana,12.7
+Rajasthan,Nagaur,Mundwa,Khimsar,1.97
+Rajasthan,Nagaur,Mundwa,Mundwa,4.79
+Rajasthan,Nagaur,Mundwa,Nagari,1.89
+Rajasthan,Nagaur,Nagaur,Barani,3.25
+Rajasthan,Nagaur,Nagaur,Gurha,2.97
+Rajasthan,Nagaur,Nagaur,Nagaur,3.12
+Rajasthan,Nagaur,Parbatsar,Parbatsar,4.83
+Rajasthan,Nagaur,Riyan,Badayali,1.9
+Rajasthan,Nagaur,Riyan,Katyasni,1.57
+Rajasthan,Nagaur,Riyan,Padukalan,2.39
+Rajasthan,Pali,Bali,Perwa,1.7
+Rajasthan,Pali,Jaitaran,Bassi,3.18
+Rajasthan,Pali,Jaitaran,Jaitaran,5.1
+Rajasthan,Pali,Jaitaran,Prithipura,2
+Rajasthan,Pali,Pali,Gumti,8.8
+Rajasthan,Pali,Raipur,Balwana,2
+Rajasthan,Pali,Raipur,Barr,1.73
+Rajasthan,Pali,Raipur,Hajiwas,3.6
+Rajasthan,Pali,Raipur,Raipur-I,6.6
+Rajasthan,Pali,Sojat,Kanawas,4.14
+Rajasthan,Pali,Sojat,Kariasoda,2.5
+Rajasthan,Pali,Sumerpur,Dhola,5.2
+Rajasthan,Rajsamand,Kumbhalgarh,Jhilwara,2.41
+Rajasthan,Rajsamand,Railmagra,Gaverdi,1.87
+Rajasthan,Rajsamand,Railmagra,Khandel,2.47
+Rajasthan,Rajsamand,Railmagra,Oda,4.45
+Rajasthan,Rajsamand,Railmagra,Railmagra,2.13
+Rajasthan,Sawai Madhopur,Bamannwas,Moral Telwara,1.66
+Rajasthan,Sawai Madhopur,Bamannwas,Piplai,6.6
+Rajasthan,Sawai Madhopur,Bonli,Bonali,5.96
+Rajasthan,Sawai Madhopur,Gangapur,Gangapur,4.18
+Rajasthan,Sawai Madhopur,Gangapur,Sewa,4.7
+Rajasthan,Sikar,Dhod,Binjyasi,3.94
+Rajasthan,Sikar,Fatehpur,Fatehpur,1.8
+Rajasthan,Sikar,Fatehpur,Rohalsobhsar,4.69
+Rajasthan,Sikar,Laxmangarh,Lachhmangarh,1.85
+Rajasthan,Sikar,Srimadhopur,Lampura,2.68
+Rajasthan,Sikar,Srimadhopur,Nathusar,1.72
+Rajasthan,Sirohi,Abu Road,Abu Road,1.6
+Rajasthan,Sirohi,Abu Road,Dhamsara,2.47
+Rajasthan,Sirohi,Abu Road,Girwar,3.15
+Rajasthan,Sirohi,Abu Road,Kiwarli,2.05
+Rajasthan,Sirohi,Abu Road,Siyana,1.65
+Rajasthan,Sirohi,Pindwara,Virwara,1.51
+Rajasthan,Sirohi,Reodar,Jirawal,1.95
+Rajasthan,Sirohi,Reodar,Karaunti,2.18
+Rajasthan,Sirohi,Reodar,Palri,2.72
+Rajasthan,Sirohi,Sheoganj,Jhadoli,1.81
+Rajasthan,Sirohi,Sirohi,Ambeshwarji,3.27
+Rajasthan,Sirohi,Sirohi,Doduwa,2.55
+Rajasthan,Sirohi,Sirohi,Kalandri,2.27
+Rajasthan,Sirohi,Sirohi,Sirohi,1.64
+Rajasthan,Tonk,Deoli,Ramthala,7.5
+Rajasthan,Tonk,Devli,Sirohi,5.46
+Rajasthan,Tonk,Malpura,Jaisinghpur,3.65
+Rajasthan,Tonk,Malpura,Malpura,5.96
+Rajasthan,Tonk,Toda Raisingh,Hamirpur,2.45
+Rajasthan,Tonk,Tonk,Mandiawas,1.98
+Rajasthan,Tonk,Tonk,Sohela,2.45
+Rajasthan,Tonk,Tonk,Tonk,6.33
+Rajasthan,Tonk,Uniara,Nayagaon,4.75
+Rajasthan,Udaipur,Dhariawad,Jawahar Nagar,2.51
+Rajasthan,Udaipur,Mavli,Fatehnagar,1.58
+Rajasthan,Udaipur,Sarada,Semri,2.79
+TamilNadu,Coimbatore,Avinashi,Karamadai,1.9
+TamilNadu,Coimbatore,Madathukulam,Kaniyur,1.53
+TamilNadu,Coimbatore,Sarkar Samakulam,Saravanampatti,1.57
+TamilNadu,Dharmapuri,Harur,Harur1,3.8
+TamilNadu,Dharmapuri,Harur,K.Vetrapatti,2.38
+TamilNadu,Dharmapuri,Morappur,Odasalapatti,1.94
+TamilNadu,Dharmapuri,Pappireddipatti,Papireddipatti1,2.4
+TamilNadu,Dharmapuri,Pennagaram,Nagadasampatti,1.74
+TamilNadu,Dharmapuri,Pennagaram,Papparapatti,2.64
+TamilNadu,Dindigul,Gijiliyamparai,Idayapatti,1.73
+TamilNadu,Dindigul,Vedasandur,Eriyodu,1.58
+TamilNadu,Erode,Ammapet,Ammapet2,1.8
+TamilNadu,Erode,Ammapet,Krishnapuram,1.91
+TamilNadu,Erode,Andhiyur,Attani,1.51
+TamilNadu,Erode,Bhavani,Kavundapadi1,1.54
+TamilNadu,Erode,Perundurai,Nasiyanur,1.76
+TamilNadu,Karur,Aravakurichi,Aravakurichi2,1.73
+TamilNadu,Karur,K.Paramathi,Chinna Dharapuram,1.52
+TamilNadu,Karur,K.Paramathi,Paramatti1,1.61
+TamilNadu,Karur,Karur,Noyyil,1.92
+TamilNadu,Krishnagiri,Kelamangalam,Rayakottai,3.25
+TamilNadu,Namakkal,Elachipalayam,V.G.Patti,1.63
+TamilNadu,Namakkal,Kabilarmalai,Velur,1.8
+TamilNadu,Namakkal,Namagiripettai,Udayarpalayam,1.61
+TamilNadu,Namakkal,Paramathi,Irumbapalam,1.54
+TamilNadu,Namakkal,Puduchatram,Talambadi,1.6
+TamilNadu,Namakkal,Vannandurai,Mohanur1,1.87
+TamilNadu,Perambalur,Tirumanur,Kilpazhavur,1.64
+TamilNadu,Puddukotai,Virallimalai,Virallimalai,1.9
+TamilNadu,Ramanathapuram,Kadaladi,Sayalkudi,1.6
+TamilNadu,Ramanathapuram,Mandapam,Nadumanaikadu,1.9
+TamilNadu,Ramanathapuram,Mudukulattur,Mudukulathur,1.8
+TamilNadu,Ramanathapuram,Tirupulani,Kilkkarai,1.76
+TamilNadu,Salem,Kadayampatti,Tivettipatti,1.7
+TamilNadu,Salem,Konganapuram,Idapadi,1.67
+TamilNadu,Sivaganga,Sakkottai,Chettinadu,3.05
+TamilNadu,Theni,Mayiladumparai,Gandamanur,1.53
+TamilNadu,Thiruvannamalai,Jamanamaruthur,Jamunamarattur1,1.68
+TamilNadu,Tiruchirapally,Manachanallur,Siruganur,1.85
+TamilNadu,Vellore,Arcot,Arcot2,2
+TamilNadu,Vellore,Gudiyattam,P.Agaram,1.76
+TamilNadu,Vellore,Kandili,Alankuppam,1.68
+TamilNadu,Vellore,Natrampalli,Natrampalli,2.28
+TamilNadu,Vellore,Tirupattur,Vengalapuram,1.74
+TamilNadu,Vellore,Vellore,Vellore1,1.68
+TamilNadu,Vellore,Walajapet,Ranipet1,2.06
+TamilNadu,Virudhunagar,Virudhunagar,Virudunagar,1.64
+TamilNadu,Virudhunagar,Watrap,Watrap,1.56
+Uttar Pradesh,Agra,Achnera,Soondhi Chaurha,1.58
+Uttar Pradesh,Agra,Bichpuri,Shahaganj Prithvinath,2.6
+Uttar Pradesh,Agra,Etmadpur,Etmadpur,1.88
+Uttar Pradesh,Agra,Kheragarh,Kagraul,1.89
+Uttar Pradesh,Aligarh,Akrabad,Gopi,1.53
+Uttar Pradesh,Aligarh,Gonda,Gonda,2.5
+Uttar Pradesh,Aligarh,Khair,Palachand,1.95
+Uttar Pradesh,Etah,Amanpur,Amanpur,1.83
+Uttar Pradesh,Etah,Jalesar,Locha,3.11
+Uttar Pradesh,Firozabad,Eka,Mustafabad,1.77
+Uttar Pradesh,Firozabad,Firozabad,Firozabad,2.21
+Uttar Pradesh,Firozabad,Jasrana,Kuslari,1.76
+Uttar Pradesh,Jaunpur,Jalalpur,Jalalpur,1.5
+Uttar Pradesh,Kannauj,Umarda,Harharpur,2.33
+Uttar Pradesh,Mahamaya Nagar,Hathras,Hathras,2.08
+Uttar Pradesh,Mahamaya Nagar,Mursan,Mursan,2.13
+Uttar Pradesh,Mahamaya Nagar,Sadabad,Biswar,2.16
+Uttar Pradesh,Mahamaya Nagar,Sadabad,Sadabad,2.23
+Uttar Pradesh,Mainpuri,Jagir,Nagla,2.96
+Uttar Pradesh,Mathura,Baldeo,Baldeo,2.27
+Uttar Pradesh,Mathura,Chaumuhan,Sahar,1.88
+Uttar Pradesh,Mathura,Chhata,Chhata,2.1
+Uttar Pradesh,Mathura,Farah,Nagra Chittar Singh,2.27
+Uttar Pradesh,Mathura,Goverdhan,Jhinglanagla,2.23
+Uttar Pradesh,Mathura,Mat,Mat,1.94
+Uttar Pradesh,Mathura,Mat,Surir,1.78
+Uttar Pradesh,Mathura,Mathura,Jachoda,2.04
+Uttar Pradesh,Mathura,Nandgaon,Kosi,1.56
+Uttar Pradesh,Mau,Ranipur,Chiryakoot,1.63
+West Bengal,Bankura,Borjora,Rampurdanga,1.6
+West Bengal,Bankura,Chhatna,Gouripur,2
+West Bengal,Bardhaman,Kulti,Kultora,1.76
+West Bengal,Bardhaman,Raniganj,Raniganj,1.55
+West Bengal,Birbhum,Ilambazar,Ilambazar,5.6
+West Bengal,Birbhum,Khyrasol,Khyrasol,9.1
+West Bengal,Birbhum,Nalhati-I,Bhabanandapur,1.5
+West Bengal,Birbhum,Raznagar,Raznagar,3.1
+West Bengal,Dakshindinajpur,Bansihari-I,Jordighi,1.5
+West Bengal,Dakshindinajpur,Gangarampur,Bordangi,1.6
+West Bengal,Dakshindinajpur,Gangarampur,Gangarampur,1.5
+West Bengal,Dakshindinajpur,Gangarampur,Nayabazar,1.6
+West Bengal,Dakshindinajpur,Kumarganj,Samjia,1.6
+West Bengal,Malda,Kaliachak-Iii,16-Mile,1.87
+West Bengal,Malda,Kaliachak-Iii,17-Mile,1.89
+West Bengal,Malda,Kaliachak-Iii,Dorapur-46,1.88
+West Bengal,Malda,Kaliachak-Iii,Mahajan Tahtala,1.87
+West Bengal,Nadia,Chakda,Silinda,1.64
+West Bengal,Nadia,Chapra,Assanagar,1.95
+West Bengal,Nadia,Chapra,Chapra,1.6
+West Bengal,Nadia,Chapra,Hridaypur,1.7
+West Bengal,Nadia,Hanskhali,Badkulla,1.66
+West Bengal,Nadia,Hanskhali,Gajna,1.68
+West Bengal,Nadia,Hanskhali,Hanskhali,1.68
+West Bengal,Nadia,Haringhata,Birohi,1.75
+West Bengal,Nadia,Kaliganj,Juranpur,1.67
+West Bengal,Nadia,Kaliganj,Palassey,1.9
+West Bengal,Nadia,Karimpur-I,Uttarkechudanga,1.6
+West Bengal,Nadia,Karimpur-Ii,Karimpur,1.66
+West Bengal,Nadia,Karimpur-Ii,Narayanpur,1.64
+West Bengal,Nadia,Karimpur-Ii,Thanapara,3
+West Bengal,Nadia,Krishnaganj,Banpur,1.61
+West Bengal,Nadia,Krishnaganj,Gobindapur,1.6
+West Bengal,Nadia,Krisnagar,Chukhali,1.52
+West Bengal,Nadia,Krisnanagar,Bahadurpur,1.68
+West Bengal,Nadia,Krisnanagar,Dhubulia,1.58
+West Bengal,Nadia,Krisnanagar,Dignagar,1.67
+West Bengal,Nadia,Nakasipara,Birpur,1.74
+West Bengal,Nadia,Nakasipara,Murugacha,1.9
+West Bengal,Nadia,Navadwip,Nabadwipghat,1.5
+West Bengal,Nadia,Santipur,Phulia,1.6
+West Bengal,Nadia,Santipur,Shantipur,1.6
+West Bengal,Nadia,Tehata-Ii,Barnia,1.81
+West Bengal,Nadia,Tehata-Ii,Kulgachi,1.5
+West Bengal,Nadia,Tehata-Ii,Palashipara,1.57
+West Bengal,Nadia,Tehat-I,Betai,1.61
+West Bengal,Nadia,Tehat-I,Shamnagar,1.7
+West Bengal,Nadia,Tehat-I,Tehatta,1.5
+West Bengal,Purulia,Barabazar,Sindri,1.7
+West Bengal,Purulia,Hura,Jhapra,1.5
+West Bengal,Purulia,Jhalda-I,Jhargo,1.5
+West Bengal,Purulia,Jhalda-Ii,Barorola,1.7
+West Bengal,Purulia,Kashipur,Plashkhola,1.5
+West Bengal,Purulia,Kasipur,Gourandih,1.52
+West Bengal,Purulia,Kasipur,Kapasita,1.8
+West Bengal,Purulia,Kasipur,Naduara,1.7
+West Bengal,Purulia,Kasipur,Napara,1.6
+West Bengal,Purulia,Kasipur,Simla,1.5
+West Bengal,Purulia,Neturia,Gobag,1.5
+West Bengal,Purulia,Neturia,Sarbori,1.7
+West Bengal,Purulia,Para,Anara,1.85
+West Bengal,Purulia,Para,Hariharpur,1.9
+West Bengal,Purulia,Puncha,Kenda,1.53
+West Bengal,Purulia,Purulia-I,Chakatore,1.5
+West Bengal,Purulia,Purulia-I,Tamna,1.56
+West Bengal,Purulia,Raghunathpur,Babugram,1.5
+West Bengal,Purulia,Raghunathpur,Bero,1.51
+West Bengal,Uttardinajpur,Hemtabad,Malan,1.9
+West Bengal,Uttardinajpur,Hemtabad,Samspurhat,1.5
+West Bengal,Uttardinajpur,Itahar,Durgapur,1.9
+West Bengal,Uttardinajpur,Kaliaganj,Kaliaganj,1.7
+West Bengal,Uttardinajpur,Karandighi,Altapur,1.6
+West Bengal,Uttardinajpur,Karandighi,Tungidighi,1.5
+West Bengal,Uttardinajpur,Raiganj,Barakamath,1.7
